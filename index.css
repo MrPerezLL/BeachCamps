@@ -1,0 +1,91 @@
+.profilePic {
+    width: 400px;
+    height: 350px;
+    padding: 10px;
+    border-radius: 10px 100px / 120px;
+}
+
+.backgroundColor {
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.mainTitle {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(10, 6, 94);
+}
+.offeredServices li{
+    color: rgb(250, 245, 245);
+    list-style-type:none;
+}
+.offeredServices{
+    padding: 60px;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align:cente
+}
+
+section{
+    text-align: center;
+}
+
+.dropdown{
+   align-items: center;
+}
+
+.dropdown{
+    text-align: right;
+}
+
+.keyNotes{
+    list-style: none;
+    margin-left: 1em;
+}
+
+.questions p{
+    /* space between questions and p makes only p get affected */
+    color: red;
+}
+
+.answers li{
+    color: red;
+}
+
+.userForm{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.bullets{
+    width: 600px;
+    
+}
+
+h2{
+    text-align: left;
+}
+
+.signIn{
+    text-align: center;
+}
+
+.logIn{
+    justify-content: center;
+}
+
+.about{
+    margin-top: 2rem; 
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+}
